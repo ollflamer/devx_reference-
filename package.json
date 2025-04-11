@@ -20,6 +20,7 @@
     "vue-router": "^4.5.0"
   },
   "devDependencies": {
-    "nuxt-icon": "^1.0.0-beta.7"
+    "nuxt-icon": "^1.0.0-beta.7",
+    "rollup": "^3.29.4"
   }
 }
